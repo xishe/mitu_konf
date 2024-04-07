@@ -8,7 +8,10 @@
 2. Скачивание библиотек.
 
 ```pip install flask```
+
 ```pip install numpy```
+
+
 3. Запуск программы.
 
 ```python main.py```
